@@ -18,4 +18,4 @@ To install and use this Chrome extension, follow these steps:
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/chrome-extension-bg-color.git
+   git clone https://github.com/ErradiAbderrahmnan99/chrome-extension-bg-color.git
