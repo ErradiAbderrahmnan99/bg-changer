@@ -1,5 +1,5 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 1,
     "name": "Change Background Color",
     "version":  "1.0",
     "description": "Changes the background color of the current page.",
